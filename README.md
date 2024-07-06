@@ -1,2 +1,2 @@
 # OS_programs
-(CPU Schedulinh)(/cpu_scheduling)
+[CPU Schedulinh](/cpu_scheduling)
