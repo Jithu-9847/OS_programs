@@ -1,2 +1,5 @@
 # OS_programs
-[CPU Schedulinh](/cpu_scheduling)
+[CPU Scheduling](/cpu_scheduling)
+[DISK Scheduling](/disk_scheduling)
+[Problems](/problems)
+
