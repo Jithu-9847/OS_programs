@@ -32,6 +32,10 @@ for(int j=0;j<n;j++)
 	
 	for(i=0;i<n;i++)
 	{
+		if(temp<at[i])
+		{
+			temp=at[i];
+		}
 		temp+=bt[i];
 		ct[i]=temp;
 		tat[i]=ct[i]-at[i];
